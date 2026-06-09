@@ -61,3 +61,46 @@ job:
   3. MVP 최적화 + 확장 가능한 모듈화 구조, 미구현 메뉴 "준비 중" 처리
   4. 배포 URL·소스코드·테스트 계정·화면 캡처·실행 안내 자료 체계적 인수인계
 - **권장 기술 스택**: React + Vite + TypeScript + Tailwind CSS + Supabase(Auth/Postgres/Storage) + Vercel
+
+## 6. 최종 산출물 (8단계 출력 전문)
+
+### 제안서 사이트 URL
+https://proposal-router.claude-ai-b27.workers.dev/proposal-sprap-crm-mvp/
+
+### 지원 금액
+5,400,000원 (VAT 별도) — 클라이언트 예상 6,000,000원의 90%
+
+### 지원 기간
+28일 (계약 체결 후 즉시 착수)
+
+### 클라이언트 질문 답변
+해당 없음 (공고 내 별도 질문 없음)
+
+### 지원 내용 (전체 텍스트)
+안녕하세요, SPRAP CRM MVP 랜딩페이지 및 상품관리 시스템 개발 프로젝트에 지원합니다.
+
+본 프로젝트에 대한 상세 제안서(견적서, 공수계산서, PRD, 일정, 포트폴리오)를 별도 페이지로 준비하였습니다.
+▶ 제안서 상세 페이지: https://proposal-router.claude-ai-b27.workers.dev/proposal-sprap-crm-mvp/
+
+[프로젝트 분석]
+- 디자인 시안 기반 6섹션 반응형 랜딩페이지 + 이메일 로그인 + 상품 관리 CRUD CRM 대시보드 MVP
+- 4개 핵심 모듈: 랜딩페이지 / 계정 관리 / 상품 관리(CRUD) / CRM 대시보드
+
+[작업 일정 — 총 28일]
+- Phase 1 (Day 1–7): 설계 + 6섹션 반응형 랜딩페이지 퍼블리싱·애니메이션
+- Phase 2 (Day 8–14): 회원가입·로그인·세션 + CRM 대시보드 UI
+- Phase 3 (Day 15–24): 상품 CRUD + 이미지 업로드 + 서버리스 DB 연동
+- Phase 4 (Day 25–28): 통합 QA + 배포 + 인수인계 자료
+
+[마일스톤] M1(Day7) 랜딩 / M2(Day14) 로그인·대시보드 / M3(Day24) 상품관리 / M4(Day28) 배포
+
+[미팅 협의] 디자인 시안 형식·섹션 구성 / 서버리스 플랫폼 선호 / 상품 종목·지역 입력 방식
+
+[유사 경험] 기업용 전자결재 SaaS 어드민 대시보드, 소셜 캘린더 서버리스(Firebase+Supabase), 시니어 케어 관리 대시보드
+
+[기술 스택] React + Vite + TypeScript + Tailwind CSS + Supabase(권장)/Firebase + Vercel
+
+### 관련 포트폴리오 추천
+1. 기업용 전자결재 SaaS (어드민 대시보드) — 로그인 기반 대시보드 + CRUD 흐름 동일
+2. 소셜 캘린더 (서버리스 인증·DB·스토리지) — Firebase/Supabase 기술 스택 정확 일치
+3. 시니어 케어 관리 플랫폼 (관리 대시보드) — 관리 대시보드 + 반응형 레이아웃 직접 연결
